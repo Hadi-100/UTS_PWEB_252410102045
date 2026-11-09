@@ -21,12 +21,12 @@ Melalui CampusHub, mahasiswa dapat melakukan login untuk masuk ke halaman dashbo
 ![Halaman dashboard](halaman-dashboard.jpeg)
 
 ## Halaman Pengelolaan
-![image alt]()
+![Halaman pengelolaan](halaman-pengelolaan.jpeg)
 
 ## Detail Mata Kuliah
-![image alt]()
-![image alt]()
-![image alt]()
+![Halaman pweb](halaman-pweb.jpeg)
+![Halaman basisdata](halaman-basisdata.jpeg)
+![Halaman pbo](halaman-pbo.jpeg)
 
 ## Halaman Profile
 ![image alt]()
