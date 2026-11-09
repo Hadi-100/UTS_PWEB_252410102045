@@ -14,4 +14,18 @@ Melalui CampusHub, mahasiswa dapat melakukan login untuk masuk ke halaman dashbo
 # Screenshoot Website
 
 ## Halaman Login
-![Halaman Login] (screenshots/)
+![image alt](screenshots/https://github.com/Hadi-100/UTS_PWEB_252410102045/blob/main/Halaman%20login.jpeg?raw=true)
+
+## Halaman Dashboard
+![image alt]()
+
+## Halaman Pengelolaan
+![image alt]()
+
+## Detail Mata Kuliah
+![image alt]()
+![image alt]()
+![image alt]()
+
+## Halaman Profile
+![image alt]()
