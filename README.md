@@ -18,7 +18,7 @@ Melalui CampusHub, mahasiswa dapat melakukan login untuk masuk ke halaman dashbo
 ![Halaman login](halaman-login.jpeg)
 
 ## Halaman Dashboard
-![image alt]()
+![Halaman dashboard](halaman-dashboard.jpeg)
 
 ## Halaman Pengelolaan
 ![image alt]()
