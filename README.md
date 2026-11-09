@@ -29,4 +29,4 @@ Melalui CampusHub, mahasiswa dapat melakukan login untuk masuk ke halaman dashbo
 ![Halaman pbo](halaman-pbo.jpeg)
 
 ## Halaman Profile
-![image alt]()
+![Halaman profile](halaman-profile.jpeg)
