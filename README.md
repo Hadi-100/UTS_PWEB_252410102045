@@ -9,6 +9,7 @@ Melalui CampusHub, mahasiswa dapat melakukan login untuk masuk ke halaman dashbo
 -Login
 -Dashboard
 -Pengelolaan
+-Detail mata kuliah
 -Profile
 
 # Screenshoot Website
